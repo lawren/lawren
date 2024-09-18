@@ -5,8 +5,6 @@
 </picture>
 
 ```
-┏
-┃ I’m an engineer and designer, passionate about creating ethical,
-┃ engaging product experiences and fostering the teams that bring them to life.
-┗
+I’m an engineer and designer, passionate about creating ethical,
+engaging product experiences and fostering the teams that bring them to life.
 ```
