@@ -4,6 +4,9 @@
   <img src="profile-banner-light.svg" alt="Profile banner" width="100%">
 </picture>
 
-<p align="center">
-  I’m a designer and engineer, passionate about creating ethical, engaging product experiences and fostering the teams that bring them to life.
-</p>
+```
+┏
+┃ I’m an engineer and designer, passionate about creating ethical,
+┃ engaging product experiences and fostering the teams that bring them to life.
+┗
+```
